@@ -1,4 +1,4 @@
-# 📝 Machine Learning KNN starterpack
+# 🤖 Machine Learning KNN starterpack
 
 This is a Python project showcasing two simple machine learning examples: a linear regression model for housing prices and a K-nearest neighbors classifier for the Iris dataset.
 
